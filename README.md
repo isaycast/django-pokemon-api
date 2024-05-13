@@ -22,8 +22,9 @@ docker-compose build
 docker-compose up -d
 ```
  Para ver los logs de la aplicación 
-````
+```
 docker-compose logs -f
 ```
+
 
 
