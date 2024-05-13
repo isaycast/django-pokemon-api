@@ -1,7 +1,5 @@
 # django-pokemon-api
 
-# django-pokemon-api
-
 Este proyecto es una aplicación web desarrollada con Django. En este documento, encontrarás las instrucciones detalladas para levantar el proyecto usando Docker Compose, además de cómo realizar pruebas y ejecutar comandos de Django en un entorno local.
 
 ## Requisitos
